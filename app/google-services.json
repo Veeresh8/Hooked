@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "382422529188",
+    "firebase_url": "https://hooked-74570.firebaseio.com",
+    "project_id": "hooked-74570",
+    "storage_bucket": "hooked-74570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382422529188:android:0a15b449e029de2b",
+        "android_client_info": {
+          "package_name": "veer.com.hooked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382422529188-s9qn8m498tdceu9jrqkb18b9vutlq5f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "veer.com.hooked",
+            "certificate_hash": "36592a332da2e246464205048c126ed1f13ee7a8"
+          }
+        },
+        {
+          "client_id": "382422529188-dnv3ti9r0hcvcgq0eb11ap2r0v51sq4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHiYpe-bin38XyBmmAEsMq-mpxeUpYYhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382422529188-dnv3ti9r0hcvcgq0eb11ap2r0v51sq4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

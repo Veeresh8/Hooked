@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hooked</string>
+    <string name="story_title">Story Title</string>
+    <string name="no_stories_yet_go_ahead_create_yours">No stories yet, go ahead create yours!</string>
+    <string name="empty_collaborators">0 Collaborators</string>
+</resources>

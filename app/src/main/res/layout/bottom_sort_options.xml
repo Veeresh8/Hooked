@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dialog_header"
+        style="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/alegreya_sans_sc_black_italic"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Sort By"
+        android:textColor="@android:color/white" />
+
+
+    <TextView
+        android:id="@+id/tv_title_asc"
+        style="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/alegreya_sans_sc_black_italic"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Old Stories" />
+
+
+    <TextView
+        android:id="@+id/tv_title_desc"
+        style="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/alegreya_sans_sc_black_italic"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Latest Stories" />
+
+</LinearLayout>
